@@ -1,0 +1,1 @@
+console.log(`El nom del fitxer és : ${__filename}`);
